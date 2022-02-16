@@ -1,0 +1,27 @@
+#EXTM3U 
+x-tvg-url="https://guidexl.tv4.live/"
+
+#EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX
+https://player.oyasumi.me/embed/995b5640-a10a-4683-95be-9886835a4cee
+#EXTINF:-1 tvg-id="CINEMAX (HD)" group-title="movies", CINEMAX
+https://bamartv.000webhostapp.com/first/cmax.php
+
+#EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO
+https://player.oyasumi.me/embed/1b3ec8fc-e076-4392-a4ec-cb9a1f1b7ca7
+#EXTINF:-1 tvg-id="HBO HD" group-title="movies", HBO
+https://bamartv.000webhostapp.com/first/hboh.php
+
+#EXTINF:-1 tvg-id="HBO Family (HD)" group-title="movies", HBO FAMILY
+https://player.oyasumi.me/embed/ef6307ec-70e0-4928-ae71-93cc39709b14
+#EXTINF:-1 tvg-id="HBO Family (HD)" group-title="movies", HBO FAMILY
+https://bamartv.000webhostapp.com/first/hfam.php
+
+#EXTINF:-1 tvg-id="HBO Hits (HD)" group-title="movies", HBO HiTS
+https://player.oyasumi.me/embed/73633902-eaf4-42fe-811d-41e52ae5fe39
+#EXTINF:-1 tvg-id="HBO Hits (HD)" group-title="movies", HBO HiTS
+https://bamartv.000webhostapp.com/first/hhit.php
+
+#EXTINF:-1 tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE
+https://player.oyasumi.me/embed/e3100940-079a-41c1-bb34-8fbf6a310e42
+#EXTINF:-1 tvg-id="HBO Signature (HD)" group-title="movies", HBO SIGNATURE
+https://bamartv.000webhostapp.com/first/hsig.php
