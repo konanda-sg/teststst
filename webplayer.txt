@@ -1,0 +1,33 @@
+<div id="apicodes-player"></div>
+
+https://player.oyasumi.me/embed/1e18be6a-f1de-4df0-8fb6-c07b0b308e33
+
+-/-/-/-/-
+
+
+5273 5115 2878 9790 | 02/27 | 742 | 021007
+
+-/-/-/-/-
+
+<!--Basic syntax-->
+<video width="640" height="480" src="https://player.oyasumi.me/embed/1e18be6a-f1de-4df0-8fb6-c07b0b308e33" controls>
+  Sorry, your browser doesn't support HTML5 <code>video</code>, but you can
+  download this video from the <a href="" target="_blank">Internet Archive</a>.
+</video>
+
+-/-/-/-/-
+
+<iframe src="https://players.brightcove.net/921483702001/default_default/index.html?videoId=4570583963001"
+        allowfullscreen
+        webkitallowfullscreen
+        mozallowfullscreen></iframe>
+
+-/-/-/-/-
+
+1. Import our stylesheet by adding the code below inside the <head> section of your <html> page
+<link rel="stylesheet" type="text/css" href="https://web-player.art19.com/assets/current.css">
+
+2. Import our script by adding this code at the end inside the <body> of your page.
+<script type="text/javascript" src="https://web-player.art19.com/assets/current.js"></script>
+
+3. Embed your player. 
