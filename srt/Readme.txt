@@ -1,1 +1,0 @@
-Subtitle Downloaded From YTS Subtitles - https://ytsubtitles.com/
